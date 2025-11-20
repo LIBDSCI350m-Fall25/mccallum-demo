@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: McCallum Demo Collection 
+title: Ceilidhs Demo Collection 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a template for creating simple digital exhibits
+tagline: BICYCLE! BICYCLE! I want to ride my bicycle, I want to ride my bike.
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Just a fun little place to test my knowledge on CollectionBuilder and GitHub"
+description: "Let's figure out how to use CollectionBuilder and GitHub using some cool bike pics."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Ceilidh McCallum
 
 ##########
 # COLLECTION SETTINGS
